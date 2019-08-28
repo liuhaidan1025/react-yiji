@@ -1,0 +1,68 @@
+img {
+  display: block;
+  width: 100%;
+}
+.login {
+  background: url("https://coding-net-production-file-ci.codehub.cn/46b67c40-c554-11e9-81af-e1f3ecba4e26.jpg?sign=dLyeGHvqS+rnPGOiBLcK+jF1M+xhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY2NzQ2MTQwJnQ9MTU2NjUzMDE0MCZyPTY1OTE5MDkwJmY9LzQ2YjY3YzQwLWM1NTQtMTFlOS04MWFmLWUxZjNlY2JhNGUyNi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==");
+  background-size: cover;
+  font-size: 50px;
+  height: 100vh;
+}
+.login .login-input {
+  width: 80vw;
+  margin: 30vh auto 5vh;
+}
+.login input {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  border: 0;
+  border-bottom: solid 1px #534d3f;
+  text-align: center;
+  outline: none;
+  font-size: 20px;
+}
+.login .login-in {
+  width: 80vw;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+.login .login-in span {
+  font-size: 20px;
+  color: #4d4b3f;
+}
+.login .agree {
+  width: 80vw;
+  margin: 25vh auto 0;
+  text-align: center;
+}
+.login .agree p {
+  color: #7d7462;
+  font-size: 14px;
+}
+.login .agree p span {
+  color: #fff;
+}
+.login-stype {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  border-top: 1px solid #fff;
+  display: flex;
+  justify-content: space-around;
+}
+.login-stype .iconfont {
+  margin: 10px 0;
+  font-size: 40px;
+  color: #4c4c4c;
+  display: flex;
+  align-items: center;
+  padding: 0 5vw;
+}
+.login-stype .iconfont.icon-weixin {
+  border-left: 1px solid #fff;
+  border-right: 1px solid #fff;
+}
+.login-stype .iconfont span {
+  font-size: 20px;
+}

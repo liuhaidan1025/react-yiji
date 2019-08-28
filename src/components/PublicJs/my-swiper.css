@@ -1,0 +1,10 @@
+.my-swiper img {
+  display: block;
+}
+.swiperTwo {
+  overflow: hidden;
+  padding: 2vh 0;
+}
+.swiper-pagination-bullet-active {
+  background-color: red;
+}

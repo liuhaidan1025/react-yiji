@@ -1,0 +1,162 @@
+.user {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.user .top {
+  height: 41vh;
+  background-image: url("https://coding-net-production-file-ci.codehub.cn/a7f1ad90-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=2CCvV+FzvekTsuEs+4oXEl8vhlNhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk3Mjc1JnQ9MTU2Njk4MTI3NSZyPTI5NTk2MjM3JmY9L2E3ZjFhZDkwLWM5NmUtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==");
+  position: relative;
+  background-size: contain;
+}
+.user .top img {
+  width: 20vw;
+  position: absolute;
+  border-radius: 50%;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+.user .top .position {
+  width: 40vw;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, 0);
+  text-align: center;
+}
+.user .top .shezhi {
+  width: 10vw;
+  height: 3vh;
+  line-height: 3vh;
+  position: absolute;
+  top: 3vh;
+  right: 5vw;
+  background-color: rgba(0, 0, 0, 0);
+  color: #fff;
+}
+.user .top .position span {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 100;
+}
+.user .top .position > span {
+  font-size: 16px;
+  margin-bottom: 5vh;
+}
+.user .top .position > div {
+  display: flex;
+  margin-top: 3vh;
+  justify-content: space-between;
+}
+
+.user .all {
+  display: flex;
+  justify-content: space-between;
+  height: 6vh;
+  align-items: center;
+}
+.user .all > span:first-child {
+  padding-left: 5vw;
+}
+.user .all > span:last-child {
+  width: 16vw;
+  height: 3vh;
+  line-height: 3vh;
+  text-align: center;
+  background-color: #c03121;
+  color: #fff;
+  border-radius: 1.5vh 0 0 1.5vh;
+  font-size: 12px;
+  font-weight: 100;
+}
+.user .dingyue {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1vw;
+  margin-bottom: 1vh;
+}
+.user .dingyue img {
+  padding: 0 0.5vw;
+}
+.user .dingyue span {
+  font-size: 12px;
+  color: rgb(51, 50, 50);
+  padding-left: 5vw;
+}
+.user .df {
+  background-color: #ccc;
+  padding-top: 1vh;
+  display: flex;
+}
+.user .touxiang,
+.user .shezhi {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  transition: all 1s;
+  z-index: 100;
+  background-color: #fff;
+}
+.user .touxiang span {
+  padding: 3vh 2.5vw;
+  position: absolute;
+  top: 3vh;
+  left: 3vw;
+}
+.user .touxiang img:last-child {
+  width: 14vw;
+  border-radius: 50%;
+  position: absolute;
+  top: 13.5vh;
+  right: 15vw;
+  border: 0.5px solid #fff;
+}
+.user .shezhi .icon-fanhui {
+  position: absolute;
+  top: 3vh;
+  left: 3vw;
+  font-size: 25px;
+  padding-top: 1vh;
+}
+.user .shezhi > div:nth-child(3) {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  top: 14vh;
+  right: 8vw;
+  width: 15vw;
+}
+.user .shezhi > div:nth-child(4) {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  top: 28vh;
+  right: 8vw;
+  width: 15vw;
+}
+.user .shezhi > div span {
+  color: rgb(80, 78, 78);
+  font-size: 14px;
+}
+.user .cover {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+.user .share-to {
+  width: 100vw;
+  position: fixed;
+  transition: all 1s;
+  z-index: 1001;
+  background-color: #fff;
+}
+.user .share-to span {
+  padding: 7vh 50vw;
+}

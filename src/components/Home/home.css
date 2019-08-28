@@ -1,0 +1,83 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+}
+.show-container {
+  width: 100vw;
+  height: 39vh;
+  overflow: hidden;
+}
+.show-container .show-wrapper {
+  width: 200vw;
+  display: flex;
+  height: 39vh;
+  transition: all 1s;
+}
+.show-container .show-wrapper > div {
+  width: 100vw;
+  height: 39vh;
+  overflow-y: auto;
+}
+.show-container .show-wrapper > div img.show-pic {
+  margin-bottom: 10px;
+}
+.show-container .show-wrapper .pos {
+  position: relative;
+}
+.show-container .show-wrapper .time {
+  width: 20vw;
+  height: 3vh;
+  line-height: 3vh;
+  text-align: center;
+  background-color: #c03121;
+  color: #fff;
+  border-radius: 1.5vh 0 0 1.5vh;
+  position: absolute;
+  right: 0;
+  top: 3vh;
+  font-size: 12px;
+  font-weight: 100;
+}
+.show-container .show-wrapper .bottom {
+  position: absolute;
+  right: 0;
+  bottom: 1vh;
+}
+.show-container .show-wrapper .bottom {
+  color: #fff;
+}
+.show-container .show-wrapper .bottom span {
+  margin-right: 5vw;
+  font-size: 14px;
+  font-weight: 100;
+}
+.show-container .show-wrapper .bottom .iconfont {
+  margin: 0;
+}
+.show-container .show-wrapper .bottom .red {
+  color: red;
+}
+.show-container .show-wrapper .bottom .icon-fenxiang {
+  margin-right: 10vw;
+}
+.show-container .show-wrapper .now {
+  position: relative;
+}
+.show-container .show-wrapper .to-will {
+  padding-left: 50vw;
+  padding-top: 4vh;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.show-container .show-wrapper .will {
+  position: relative;
+}
+.show-container .show-wrapper .to-now {
+  padding-left: 50vw;
+  padding-top: 4vh;
+  position: absolute;
+  left: 0;
+  top: 0;
+}

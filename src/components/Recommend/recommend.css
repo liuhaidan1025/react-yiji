@@ -1,0 +1,12 @@
+.recommend {
+  height: 100vh;
+}
+.recommend .show-container {
+  height: 85vh;
+}
+.recommend .show-container .show-wrapper {
+  height: 85vh;
+}
+.recommend .show-container .show-wrapper > div {
+  height: 85vh;
+}

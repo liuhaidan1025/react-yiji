@@ -1,0 +1,162 @@
+.showPersonal .top .icon-fanhui {
+  color: #fff;
+  font-size: 30px;
+  position: fixed;
+  top: 2vh;
+  left: 2vw;
+}
+.showPersonal {
+  overflow: auto;
+  width: 100vw;
+  height: 100vh;
+  padding-bottom: 7vh;
+}
+.showPersonal .red-title {
+  display: block;
+  background-color: #c03121;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  width: 22vw;
+  height: 3vh;
+  line-height: 3vh;
+  text-align: center;
+  border-radius: 0 1.5vh 1.5vh 0;
+}
+.showPersonal p {
+  padding: 0 5vw;
+  font-size: 12px;
+}
+.showPersonal .shows img {
+  margin-bottom: 2vh;
+}
+.showPersonal .shows img:last-child {
+  margin: 0;
+}
+.showPersonal .comments ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.showPersonal .comments ul li {
+  padding: 1vh 2.5vw;
+  display: flex;
+  width: 100vw;
+  height: 8vh;
+  margin-bottom: 0.1vh;
+  background-color: #ddd;
+}
+
+.showPersonal .comments ul li img {
+  display: block;
+  width: 5vw;
+  border-radius: 50%;
+  margin-right: 2vw;
+}
+.showPersonal .comments ul li span {
+  font-size: 10px;
+  line-height: 14px;
+  display: block;
+}
+.showPersonal .comments ul li span:last-child {
+  line-height: 20px;
+  color: rgb(78, 75, 75);
+}
+.showPersonal .comments ul li.show-all {
+  margin-top: 0.5vh;
+  height: 6vh;
+  padding: 0;
+}
+.showPersonal .comments ul li.show-all span {
+  font-size: 14px;
+  line-height: 6vh;
+  text-align: center;
+}
+.showPersonal .bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  height: 7vh;
+  background-color: #000;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.showPersonal .bottom span {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 100;
+}
+.showPersonal .bottom span.red {
+  color: red;
+}
+.show-info .map {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  transition: all 1s;
+  z-index: 100;
+  background-color: #fff;
+}
+.show-info .map img {
+  margin-bottom: 1vh;
+}
+.show-info .map > span {
+  position: absolute;
+  top: 2vh;
+  left: 2.5vw;
+  padding: 3vh 3vw;
+}
+.show-info .map h4,
+.show-info .map p {
+  margin: 0;
+  padding-left: 3vw;
+}
+.show-info .map p {
+  font-size: 12px;
+  line-height: 18px;
+}
+.show-info .cover {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+}
+.show-info .share-to {
+  width: 100vw;
+  position: fixed;
+  transition: all 1s;
+  z-index: 1001;
+  background-color: #fff;
+}
+.show-info .share-to span {
+  padding: 7vh 50vw;
+}
+.show-info .comment .top {
+  height: 10vh;
+  margin: 0 4vw;
+  border-bottom: 1px solid #000;
+  display: flex;
+  justify-content: space-between;
+}
+.show-info .comment .top span {
+  font-size: 18px;
+  line-height: 12vh;
+  color: rgb(133, 28, 28);
+}
+.show-info .comment textarea {
+  width: 100vw;
+  height: 90vh;
+  padding: 2vh 4vw;
+  font-size: 14px;
+  border: 0;
+  outline: none;
+  background-image: url("https://coding-net-production-file-ci.codehub.cn/c3ea8830-c943-11e9-9aa6-fb9ccf6266eb.png?sign=EaEflG32BfAknRLtVXiD5V+s3ONhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTc4ODUyJnQ9MTU2Njk2Mjg1MiZyPTI2NjY0MDc5JmY9L2MzZWE4ODMwLWM5NDMtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
