@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16fd62b55660d5621fe042abbf2c07d8",
+    "revision": "48ad0ec32a0dbf20ccd161a09007fbd7",
     "url": "/react-yiji/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-yiji/static/css/2.acb72abc.chunk.css"
   },
   {
-    "revision": "419f54817b734280a31c",
+    "revision": "2199f7c371fe2c7ae483",
     "url": "/react-yiji/static/css/main.addaf36f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-yiji/static/js/2.9c3762f5.chunk.js"
   },
   {
-    "revision": "419f54817b734280a31c",
-    "url": "/react-yiji/static/js/main.5cf11f3a.chunk.js"
+    "revision": "2199f7c371fe2c7ae483",
+    "url": "/react-yiji/static/js/main.08f1f03b.chunk.js"
   },
   {
     "revision": "76e3e25619ead56721a2",
