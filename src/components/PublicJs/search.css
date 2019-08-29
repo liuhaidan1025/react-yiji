@@ -1,6 +1,7 @@
 .search {
-  background: url("https://coding-net-production-file-ci.codehub.cn/4ce54af0-c57d-11e9-adc6-e50dc0111989.jpg?sign=LUUQa/ekOuEr1W881Dk2F5aYO69hPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY2NzYzNzYwJnQ9MTU2NjU0Nzc2MCZyPTY5MjkyNTkxJmY9LzRjZTU0YWYwLWM1N2QtMTFlOS1hZGM2LWU1MGRjMDExMTk4OS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==")
-    center no-repeat;
+  background-image: url("https://coding-net-production-file-ci.codehub.cn/4ce54af0-c57d-11e9-adc6-e50dc0111989.jpg?sign=LUUQa/ekOuEr1W881Dk2F5aYO69hPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY2NzYzNzYwJnQ9MTU2NjU0Nzc2MCZyPTY5MjkyNTkxJmY9LzRjZTU0YWYwLWM1N2QtMTFlOS1hZGM2LWU1MGRjMDExMTk4OS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==");
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: 31vw;
   background-color: #f0f0f2;
   height: 7vh;
