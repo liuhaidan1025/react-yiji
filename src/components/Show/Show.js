@@ -176,7 +176,7 @@ class Show extends Component {
           style={{ left: this.state.isShowMap ? "0" : "100vw" }}
         >
           <img
-            src="https://coding-net-production-file-ci.codehub.cn/1080b430-c7e1-11e9-9734-27c7b226d101.jpg?sign=676Icw05TVeM2f/ZARnObefPL4phPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MDI3MDQ1JnQ9MTU2NjgxMTA0NSZyPTUwMzE5Mzg2JmY9LzEwODBiNDMwLWM3ZTEtMTFlOS05NzM0LTI3YzdiMjI2ZDEwMS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://coding-net-production-file-ci.codehub.cn/1080b430-c7e1-11e9-9734-27c7b226d101.jpg?sign=colyEXUCzGjuCizA0pfR6zrwKK1hPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYyMTE2JnQ9MTU2NzA0NjExNiZyPTEzOTUzMTk2JmY9LzEwODBiNDMwLWM3ZTEtMTFlOS05NzM0LTI3YzdiMjI2ZDEwMS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
             alt=""
           />
           <div>
