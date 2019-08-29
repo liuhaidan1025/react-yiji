@@ -116,10 +116,10 @@ class User extends Component {
           className="touxiang"
           style={{ left: this.state.isShowtouxiang ? "0" : "100vw" }}
         >
-          <img
+          {/* <img
             src="https://coding-net-production-file-ci.codehub.cn/782e9240-c977-11e9-9aa6-fb9ccf6266eb.jpg?sign=Deky695cP1o/XtEVnWE6AvoLiiFhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjAxMDYyJnQ9MTU2Njk4NTA2MiZyPTE3ODkxNTU5JmY9Lzc4MmU5MjQwLWM5NzctMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
             alt=""
-          />
+          /> */}
           <span onClick={this.changeTouxiang}></span>
           <img
             onClick={this.changeIsShowCover}
@@ -131,10 +131,10 @@ class User extends Component {
           className="shezhi"
           style={{ left: this.state.isShowshezhi ? "0" : "100vw" }}
         >
-          <img
+          {/* <img
             src="https://coding-net-production-file-ci.codehub.cn/af416320-c977-11e9-9aa6-fb9ccf6266eb.jpg?sign=9x0JcDUbDQpwORIcmoDOptkylvphPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjAxMTUxJnQ9MTU2Njk4NTE1MSZyPTk0NTMxNDkzJmY9L2FmNDE2MzIwLWM5NzctMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
             alt=""
-          />
+          /> */}
           <span
             onClick={this.changeshezhi}
             className="iconfont icon-fanhui"

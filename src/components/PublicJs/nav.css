@@ -10,6 +10,7 @@
   margin: 0;
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 .nav ul li img {
   width: 15vw;
