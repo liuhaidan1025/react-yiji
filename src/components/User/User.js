@@ -59,7 +59,7 @@ class User extends Component {
               </span>
             </div>
           </div>
-          <span onClick={this.changeshezhi} className="shezhi">
+          <span onClick={this.changeshezhi} className="shezhizi">
             设置
           </span>
         </div>

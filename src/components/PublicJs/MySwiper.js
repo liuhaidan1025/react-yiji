@@ -34,8 +34,12 @@ class MySwiper extends Component {
         >
           <div className="swiper-wrapper">
             {pics.map((item, index) => (
-              <div key={index} className="swiper-slide">
-                <img src={item} alt="" />
+              <div
+                key={index}
+                className="swiper-slide"
+                style={{ backgroundImage: `url('${item}')` }}
+              >
+                {/* <img src={item} alt="" /> */}
               </div>
             ))}
           </div>

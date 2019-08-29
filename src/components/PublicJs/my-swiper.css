@@ -8,3 +8,6 @@
 .swiper-pagination-bullet-active {
   background-color: red;
 }
+.swiper-slide {
+  background-size: 100% 100%;
+}
