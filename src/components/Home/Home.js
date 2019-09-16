@@ -23,9 +23,9 @@ class Home extends Component {
   render() {
     const swiperOne = {
       pics: [
-        "https://coding-net-production-file-ci.codehub.cn/5539ad00-c58b-11e9-81af-e1f3ecba4e26.jpg?sign=GqMvQ3g/nH7os3rnz79a/dL9UHRhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMTY4JnQ9MTU2NzA0NTE2OCZyPTgzMjQwOTg4JmY9LzU1MzlhZDAwLWM1OGItMTFlOS04MWFmLWUxZjNlY2JhNGUyNi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/5526e850-c58b-11e9-81af-e1f3ecba4e26.jpg?sign=Um+znywnp6+SwlYo+MHLReLwQM9hPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMTgyJnQ9MTU2NzA0NTE4MiZyPTg4Mzg2OTAwJmY9LzU1MjZlODUwLWM1OGItMTFlOS04MWFmLWUxZjNlY2JhNGUyNi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/552d7800-c58b-11e9-81af-e1f3ecba4e26.jpg?sign=LIx3kZqJNHwc6JlmKWIVdF5CK9phPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMTk2JnQ9MTU2NzA0NTE5NiZyPTIzNTExNzEwJmY9LzU1MmQ3ODAwLWM1OGItMTFlOS04MWFmLWUxZjNlY2JhNGUyNi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/5526e850-c58b-11e9-81af-e1f3ecba4e26.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/552d7800-c58b-11e9-81af-e1f3ecba4e26.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/5539ad00-c58b-11e9-81af-e1f3ecba4e26.jpg"
       ],
       loop: true,
       direction: "horizontal",
@@ -41,12 +41,12 @@ class Home extends Component {
     };
     const swiperTwo = {
       pics: [
-        "https://coding-net-production-file-ci.codehub.cn/8bbe1930-c58e-11e9-8948-0728598063e4.jpg?sign=XMokfonksQ2lSVZRNHaB1Qstm8NhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMjM4JnQ9MTU2NzA0NTIzOCZyPTY2MDQyODIwJmY9LzhiYmUxOTMwLWM1OGUtMTFlOS04OTQ4LTA3Mjg1OTgwNjNlNC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/8bc963d0-c58e-11e9-8948-0728598063e4.jpg?sign=JzWBgrZDz0hyr2IvNknBDv1IZ+thPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMjU3JnQ9MTU2NzA0NTI1NyZyPTg4NjQxNzYwJmY9LzhiYzk2M2QwLWM1OGUtMTFlOS04OTQ4LTA3Mjg1OTgwNjNlNC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/8bbe1930-c58e-11e9-8948-0728598063e4.jpg?sign=XMokfonksQ2lSVZRNHaB1Qstm8NhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMjM4JnQ9MTU2NzA0NTIzOCZyPTY2MDQyODIwJmY9LzhiYmUxOTMwLWM1OGUtMTFlOS04OTQ4LTA3Mjg1OTgwNjNlNC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/8bc963d0-c58e-11e9-8948-0728598063e4.jpg?sign=JzWBgrZDz0hyr2IvNknBDv1IZ+thPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMjU3JnQ9MTU2NzA0NTI1NyZyPTg4NjQxNzYwJmY9LzhiYzk2M2QwLWM1OGUtMTFlOS04OTQ4LTA3Mjg1OTgwNjNlNC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/8bbe1930-c58e-11e9-8948-0728598063e4.jpg?sign=XMokfonksQ2lSVZRNHaB1Qstm8NhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMjM4JnQ9MTU2NzA0NTIzOCZyPTY2MDQyODIwJmY9LzhiYmUxOTMwLWM1OGUtMTFlOS04OTQ4LTA3Mjg1OTgwNjNlNC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ==",
-        "https://coding-net-production-file-ci.codehub.cn/8bc963d0-c58e-11e9-8948-0728598063e4.jpg?sign=JzWBgrZDz0hyr2IvNknBDv1IZ+thPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxMjU3JnQ9MTU2NzA0NTI1NyZyPTg4NjQxNzYwJmY9LzhiYzk2M2QwLWM1OGUtMTFlOS04OTQ4LTA3Mjg1OTgwNjNlNC5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/8bbe1930-c58e-11e9-8948-0728598063e4.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/8bc963d0-c58e-11e9-8948-0728598063e4.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/8bbe1930-c58e-11e9-8948-0728598063e4.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/8bc963d0-c58e-11e9-8948-0728598063e4.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/8bbe1930-c58e-11e9-8948-0728598063e4.jpg",
+        "https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/8bc963d0-c58e-11e9-8948-0728598063e4.jpg"
       ],
       loop: true,
       direction: "horizontal",
@@ -121,7 +121,7 @@ class Home extends Component {
             <div className="now">
               <img
                 className="show-top"
-                src="https://coding-net-production-file-ci.codehub.cn/30966a30-c62e-11e9-99fa-d9b98f91f971.jpg?sign=oVT29lcxsEomdh+RDdS7VIAQtJVhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxNDMzJnQ9MTU2NzA0NTQzMyZyPTE0MzE1MDYyJmY9LzMwOTY2YTMwLWM2MmUtMTFlOS05OWZhLWQ5Yjk4ZjkxZjk3MS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+                src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/30966a30-c62e-11e9-99fa-d9b98f91f971.jpg"
                 alt=""
               />
               <span className="to-will" onClick={this.toWill} />
@@ -130,7 +130,7 @@ class Home extends Component {
             <div className="will">
               <img
                 className="show-top"
-                src="https://coding-net-production-file-ci.codehub.cn/309b9a50-c62e-11e9-99fa-d9b98f91f971.jpg?sign=Z9E24IdXM6MmwvUX3MXAm8/nTwphPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxNDYwJnQ9MTU2NzA0NTQ2MCZyPTQ1NjE2NjgyJmY9LzMwOWI5YTUwLWM2MmUtMTFlOS05OWZhLWQ5Yjk4ZjkxZjk3MS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+                src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/309b9a50-c62e-11e9-99fa-d9b98f91f971.jpg"
                 alt=""
               />
               <span className="to-now" onClick={this.toNow} />

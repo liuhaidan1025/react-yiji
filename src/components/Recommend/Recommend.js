@@ -81,7 +81,7 @@ class Recommend extends Component {
             <div className="now">
               <img
                 className="show-top"
-                src="https://coding-net-production-file-ci.codehub.cn/444bb8a0-c7d7-11e9-9734-27c7b226d101.jpg?sign=p5xiscJydZO1nPKa7VXynn5v6mphPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxODcwJnQ9MTU2NzA0NTg3MCZyPTY2Njk5Njc4JmY9LzQ0NGJiOGEwLWM3ZDctMTFlOS05NzM0LTI3YzdiMjI2ZDEwMS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+                src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/444bb8a0-c7d7-11e9-9734-27c7b226d101.jpg"
                 alt=""
               />
               <span className="to-will" onClick={this.toWen} />
@@ -90,7 +90,7 @@ class Recommend extends Component {
             <div className="will">
               <img
                 className="show-top"
-                src="https://coding-net-production-file-ci.codehub.cn/444ddb80-c7d7-11e9-9734-27c7b226d101.jpg?sign=yMgcvXwyZzWGjVyA9fvbmsHNYmdhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYxODg2JnQ9MTU2NzA0NTg4NiZyPTI5MTMxMDAxJmY9LzQ0NGRkYjgwLWM3ZDctMTFlOS05NzM0LTI3YzdiMjI2ZDEwMS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+                src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/444ddb80-c7d7-11e9-9734-27c7b226d101.jpg"
                 alt=""
               />
               <span className="to-now" onClick={this.toZhan} />

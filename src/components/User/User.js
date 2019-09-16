@@ -40,7 +40,7 @@ class User extends Component {
         <div className="top">
           <img
             onClick={this.changeTouxiang}
-            src="https://coding-net-production-file-ci.codehub.cn/52442020-c96f-11e9-9aa6-fb9ccf6266eb.png?sign=nvThOCdt9LERv48UnkAktfui5sxhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk3NTY0JnQ9MTU2Njk4MTU2NCZyPTcwMTM2NTQ1JmY9LzUyNDQyMDIwLWM5NmYtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/52442020-c96f-11e9-9aa6-fb9ccf6266eb.png"
             alt=""
           />
           <div className="position">
@@ -70,21 +70,21 @@ class User extends Component {
         <div className="dingyue">
           <div>
             <img
-              src="https://coding-net-production-file-ci.codehub.cn/a7f9c3e0-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=+5wxfn1BaLcRf7/8xTTeUPbQwAxhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk4MjE1JnQ9MTU2Njk4MjIxNSZyPTM4MzIyNTI1JmY9L2E3ZjljM2UwLWM5NmUtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+              src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/a7f9c3e0-c96e-11e9-9aa6-fb9ccf6266eb.png"
               alt=""
             />
             <span>订阅/11</span>
           </div>
           <div>
             <img
-              src="https://coding-net-production-file-ci.codehub.cn/a8e24f20-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=eDOYMMfTqlyFZMK6sg8SGA6lFv1hPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk4MjMxJnQ9MTU2Njk4MjIzMSZyPTM0MDcwODkmZj0vYThlMjRmMjAtYzk2ZS0xMWU5LTlhYTYtZmI5Y2NmNjI2NmViLnBuZyZiPWNvZGluZy1uZXQtcHJvZHVjdGlvbi1maWxl"
+              src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/a8e24f20-c96e-11e9-9aa6-fb9ccf6266eb.png"
               alt=""
             />
             <span>订阅/9</span>
           </div>
           <div>
             <img
-              src="https://coding-net-production-file-ci.codehub.cn/a8fa1ce0-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=yJKoHiIjmIkiBUhcQZlNh43OZIFhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk4MjQ5JnQ9MTU2Njk4MjI0OSZyPTg3MTQzNzk5JmY9L2E4ZmExY2UwLWM5NmUtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+              src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/a8fa1ce0-c96e-11e9-9aa6-fb9ccf6266eb.png"
               alt=""
             />
             <span>订阅/13</span>
@@ -92,20 +92,20 @@ class User extends Component {
         </div>
         <div>
           <img
-            src="https://coding-net-production-file-ci.codehub.cn/d12dfc10-c971-11e9-9aa6-fb9ccf6266eb.jpg?sign=hGbJQ0wNmb60sV0fRZcGyr1NLVVhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk4NjMxJnQ9MTU2Njk4MjYzMSZyPTExNTk5NDQ1JmY9L2QxMmRmYzEwLWM5NzEtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/d12dfc10-c971-11e9-9aa6-fb9ccf6266eb.jpg"
             alt=""
           />
           <div className="df">
             <div>
               {" "}
               <img
-                src="https://coding-net-production-file-ci.codehub.cn/a7dee8e0-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=1lfAMbUqLhMUbwV0nEBUJHOJRSRhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk4NzEyJnQ9MTU2Njk4MjcxMiZyPTI2Njg4MTYwJmY9L2E3ZGVlOGUwLWM5NmUtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+                src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/a7dee8e0-c96e-11e9-9aa6-fb9ccf6266eb.png"
                 alt=""
               />
             </div>
             <div>
               <img
-                src="https://coding-net-production-file-ci.codehub.cn/a7e2e080-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=PS0DyKCYXlTULIEEIE5Ckt2w3sNhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTk4NzI4JnQ9MTU2Njk4MjcyOCZyPTYzNzc3MDk5JmY9L2E3ZTJlMDgwLWM5NmUtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+                src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/a7e2e080-c96e-11e9-9aa6-fb9ccf6266eb.png"
                 alt=""
               />
             </div>
@@ -116,14 +116,10 @@ class User extends Component {
           className="touxiang"
           style={{ left: this.state.isShowtouxiang ? "0" : "100vw" }}
         >
-          {/* <img
-            src="https://coding-net-production-file-ci.codehub.cn/782e9240-c977-11e9-9aa6-fb9ccf6266eb.jpg?sign=Deky695cP1o/XtEVnWE6AvoLiiFhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjAxMDYyJnQ9MTU2Njk4NTA2MiZyPTE3ODkxNTU5JmY9Lzc4MmU5MjQwLWM5NzctMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
-            alt=""
-          /> */}
           <span onClick={this.changeTouxiang}></span>
           <img
             onClick={this.changeIsShowCover}
-            src="https://coding-net-production-file-ci.codehub.cn/a7f445a0-c96e-11e9-9aa6-fb9ccf6266eb.png?sign=rcx1mERGUTW5QrBlDDYCeJ/YHGxhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjAyMzU4JnQ9MTU2Njk4NjM1OCZyPTQzMzkwNDU4JmY9L2E3ZjQ0NWEwLWM5NmUtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/a7f445a0-c96e-11e9-9aa6-fb9ccf6266eb.png"
             alt=""
           />
         </div>
@@ -131,10 +127,6 @@ class User extends Component {
           className="shezhi"
           style={{ left: this.state.isShowshezhi ? "0" : "100vw" }}
         >
-          {/* <img
-            src="https://coding-net-production-file-ci.codehub.cn/af416320-c977-11e9-9aa6-fb9ccf6266eb.jpg?sign=9x0JcDUbDQpwORIcmoDOptkylvphPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjAxMTUxJnQ9MTU2Njk4NTE1MSZyPTk0NTMxNDkzJmY9L2FmNDE2MzIwLWM5NzctMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
-            alt=""
-          /> */}
           <span
             onClick={this.changeshezhi}
             className="iconfont icon-fanhui"
@@ -180,7 +172,7 @@ class User extends Component {
           style={{ bottom: this.state.isShowCover ? "0" : "-40vh" }}
         >
           <img
-            src="https://coding-net-production-file-ci.codehub.cn/1badc9e0-c97d-11e9-9aa6-fb9ccf6266eb.png?sign=kzr56Aa5cesn9Xfa+z08w9XoWURhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjAzNDg2JnQ9MTU2Njk4NzQ4NiZyPTEwNTE0OTEzJmY9LzFiYWRjOWUwLWM5N2QtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5wbmcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/1badc9e0-c97d-11e9-9aa6-fb9ccf6266eb.png"
             alt=""
           />
           <span onClick={this.changeIsShowCover}></span>

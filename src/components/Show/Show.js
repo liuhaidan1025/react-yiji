@@ -176,7 +176,7 @@ class Show extends Component {
           style={{ left: this.state.isShowMap ? "0" : "100vw" }}
         >
           <img
-            src="https://coding-net-production-file-ci.codehub.cn/1080b430-c7e1-11e9-9734-27c7b226d101.jpg?sign=colyEXUCzGjuCizA0pfR6zrwKK1hPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MjYyMTE2JnQ9MTU2NzA0NjExNiZyPTEzOTUzMTk2JmY9LzEwODBiNDMwLWM3ZTEtMTFlOS05NzM0LTI3YzdiMjI2ZDEwMS5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/1080b430-c7e1-11e9-9734-27c7b226d101.jpg"
             alt=""
           />
           <div>
@@ -196,7 +196,7 @@ class Show extends Component {
           style={{ bottom: this.state.isShowCover ? "0" : "-40vh" }}
         >
           <img
-            src="https://coding-net-production-file-ci.codehub.cn/12e44000-c93c-11e9-9aa6-fb9ccf6266eb.jpg?sign=YWruuUzm/qGmRYkfEZtSNirv4oRhPTEyNTcyNDI1OTkmaz1BS0lEYXk4M2xGbWFTNlk0TFRkek1WTzFTZFpPeUpTTk9ZcHImZT0xNTY3MTc1NTQ4JnQ9MTU2Njk1OTU0OCZyPTc4NTQ1OTcxJmY9LzEyZTQ0MDAwLWM5M2MtMTFlOS05YWE2LWZiOWNjZjYyNjZlYi5qcGcmYj1jb2RpbmctbmV0LXByb2R1Y3Rpb24tZmlsZQ=="
+            src="https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/12e44000-c93c-11e9-9aa6-fb9ccf6266eb.jpg"
             alt=""
           />
           <span onClick={this.changeIsShowCover}></span>
