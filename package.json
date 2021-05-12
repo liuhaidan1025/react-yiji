@@ -11,7 +11,7 @@
     "react-scripts": "3.0.1",
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
-    "swiper": "^4.5.0"
+    "swiper": "^6.5.1"
   },
   "homepage": "https://liuhaidan1025.io/react-yiji",
   "scripts": {
